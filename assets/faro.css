@@ -1,0 +1,30 @@
+.partido{ 
+    background: none repeat scroll 0 0 #EBF5FF;
+    border-bottom: 1px solid #999999;
+    border-top: 1px solid #999999;
+    padding-left: 0.23em;
+}
+.table th {
+   text-align: center;   
+}
+.table td {
+   text-align: center;   
+}
+.table {
+    table-layout: fixed;
+}
+
+img {
+    max-width:100%; 
+    max-height:100%;
+}
+tfoot{
+    background-color: #EEEEEE;
+    font-weight:  bold;
+}
+
+.dropdown-menu {
+    max-height: 500px;
+    overflow-y: auto;
+    
+}
