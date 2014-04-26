@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'le1982';
+$db['default']['password'] = 'password';
 $db['default']['database'] = 'elFaro';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
